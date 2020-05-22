@@ -1,3 +1,4 @@
 Manifest-Version: 1.0
+OpenIDE-Module-Install: com/mycompany/bugnbapp/Installer.class
 OpenIDE-Module-Localizing-Bundle: com/mycompany/bugnbapp/Bundle.properties
 
